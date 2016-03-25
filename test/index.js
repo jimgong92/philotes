@@ -7,5 +7,5 @@ describe('Philotes', function() {
   });
 
   // Run remainder of specs
-  require('./api')();
+  require('./APISpec')();
 });
